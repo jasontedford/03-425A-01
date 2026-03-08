@@ -81,7 +81,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WJSESXIZ
 
 [Document3]
 DocumentPath=425AK01A_S02.SchDoc
@@ -98,7 +98,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BFLWKGTY
 
 [Document4]
 DocumentPath=425AK01A_S03.SchDoc
@@ -115,7 +115,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DITPIXHW
 
 [Document5]
 DocumentPath=425AK01A_S04.SchDoc
@@ -132,7 +132,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EBTXEEFH
 
 [Document6]
 DocumentPath=425AK01A_S05.SchDoc
@@ -149,7 +149,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ALSPISBF
 
 [Document7]
 DocumentPath=425AK01A_S06.SchDoc
@@ -166,7 +166,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=KHSNTTGJ
 
 [Document8]
 DocumentPath=425AK01A_S07.SchDoc
@@ -183,7 +183,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CVYEQSRS
 
 [Document9]
 DocumentPath=425AK01A_S08.SchDoc
@@ -200,7 +200,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TKAGFODY
 
 [Document10]
 DocumentPath=425AK01A_S09.SchDoc
@@ -217,7 +217,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ALWUYFBL
 
 [Document11]
 DocumentPath=425AK01A_S10.SchDoc
@@ -234,7 +234,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UCIUHPFS
 
 [Document12]
 DocumentPath=425AM01A.PcbDoc
@@ -251,7 +251,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=KNHRPTIV
 
 [Document13]
 DocumentPath=425AM01A.PCBDwf
@@ -272,6 +272,91 @@ DocumentUniqueId=
 
 [Document14]
 DocumentPath=425AP01A.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document15]
+DocumentPath=425AK01A_S02.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document16]
+DocumentPath=425AK01A_S04.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document17]
+DocumentPath=425AK01A_S07.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document18]
+DocumentPath=425AK01A_S09.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document19]
+DocumentPath=425AK01A_S10.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -974,36 +1059,6 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=Ansoft Neutral
-OutputName13=Ansoft Neutral (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=HyperLynx
-OutputName14=HyperLynx (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=Orcad v7 Capture Design
-OutputName15=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD ASCII
-OutputName16=P-CAD ASCII (AutoPCB)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=P-CAD V16 Schematic Design
-OutputName17=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=SiSoft
-OutputName18=SiSoft (AutoPCB)
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
